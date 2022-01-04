@@ -329,7 +329,12 @@
     <string name="doze_double_tap_summary">Pulse notifications by a double tap</string>
 
     <!-- Private DNS -->
+    <!-- AdGuard DNS Option -->
+    <string name="private_dns_mode_adguard" translatable="false">AdGuard DNS</string>
+    <!-- Cloudflare DNS Option -->
     <string name="private_dns_mode_cloudflare" translatable="false">Cloudflare DNS</string>
-    <!-- Alternative: 1dot1dot1dot1.cloudflare-dns.com -->
+    <!-- AdGuard DNS hostname -->
+    <string name="private_dns_hostname_adguard" translatable="false">dns.adguard.com</string>
+    <!-- Cloudflare DNS hostname -->
     <string name="private_dns_hostname_cloudflare" translatable="false">one.one.one.one</string>
 </resources>
