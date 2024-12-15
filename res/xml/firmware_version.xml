@@ -37,6 +37,14 @@
         settings:enableCopying="true"
         settings:controller="com.android.settings.deviceinfo.firmwareversion.SecurityPatchLevelPreferenceController"/>
 
+    <!-- Maintainer Name -->
+    <Preference
+        android:key="maintainer"
+        android:title="@string/maintainer"
+        android:summary="@string/maintainer_name"
+        android:selectable="false"
+        settings:enableCopying="true"/>
+    
     <!-- Mainline module version
     <Preference
         android:key="module_version"

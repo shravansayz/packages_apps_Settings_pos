@@ -3059,6 +3059,10 @@
     <string name="security_patch">Android security update</string>
     <!-- About phone screen, status item label  [CHAR LIMIT=40] -->
     <string name="model_info">Model</string>
+    <!-- About phone screen, status item label  [CHAR LIMIT=40] -->
+    <string name="maintainer">Maintainer</string>
+    <!-- About phone screen, status item label  [CHAR LIMIT=40] -->
+    <string name="maintainer_name">Shravan (@Shravan_SK)</string>
     <!-- Label for device's hardware revision value [CHAR LIMIT=40] -->
     <string name="hardware_revision">Hardware version</string>
     <!-- Label for device's manufactured year value [CHAR LIMIT=40] -->
